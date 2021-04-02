@@ -87,4 +87,4 @@ exclude:
   - LICENSE
   - "*.log"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
