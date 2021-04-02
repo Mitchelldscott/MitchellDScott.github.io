@@ -1,17 +1,24 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: QA Intern, HiTem Engineering
+  from: 2017
+  to: 2017
+  description: Ran tests on the quality and responsivity of smart doorbells. I also began learning to use Python and Linux.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Student, University of Colorado at Boulder
+  from: 2017
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: BA in Computer Science
+
+- title: Vision13 Intern, NextCapitalTech
+  from: 2019
+  to: 2019
+  description: Maintained data scrapers and helped teams clean unstructured data for deep learning models. This was my first time building and training a deep learning model with TensorFlow.
+
+- title: Research Assistent, HIRO group
+  from: 2020
+  to: present
+  description: Working on publishing a paper on non-verbal intention signaling for robots in environments shared with humans.
+
+- title: CV Intern, Scythe Robotics
+  from: 2021
+  to: present
+  description: Currently in charge of collecting a weekly calibration bag from a stereo camera system and I am working on automating this process.

@@ -1,0 +1,23 @@
+- name: Arduino
+  percentage: 90
+  color: success
+
+- name: ROS
+  percentage: 75
+  color: info
+
+- name: TensorFlow
+  percentage: 65
+  color:
+
+- name: Gazebo
+  percentage: 65
+  color:
+
+- name: Webots
+  percentage: 60
+  color:
+
+- name: FreeCad
+  percentage: 50
+  color: dark

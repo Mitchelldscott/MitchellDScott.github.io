@@ -1,0 +1,16 @@
+- name: Ubuntu
+  percentage: 90
+  color: success
+
+- name: MacOS
+  percentage: 85
+  color: info
+
+- name: Raspbian
+  percentage: 75
+  color: info
+
+- name: Jetpack
+  percentage: 50
+  color: dark
+
