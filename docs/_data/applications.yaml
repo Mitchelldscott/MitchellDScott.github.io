@@ -6,10 +6,6 @@
   percentage: 75
   color: info
 
-- name: TensorFlow
-  percentage: 65
-  color:
-
 - name: Gazebo
   percentage: 65
   color:
