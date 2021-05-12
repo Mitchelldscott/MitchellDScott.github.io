@@ -7,7 +7,15 @@ weight: 3
 
 # **About Me**
 
-I grew up in San Diego CA and am now almost finished getting a BA in computer science from the University of Colorado at Boulder. I am currently a member of the **H**uman **I**nteraction and **RO**botics (HIRO) research group at CU and have focused my studies on robotics, algorithms, data science, operating systems and numerical computation. After graduation I plan to pursue a masters degree in robotic systems and controls through CU's mechanical engineering department. My dream job is developing intelligent and interactive mechatronic/robotic systems. Some of my hobbies include snowboarding, pickup sports, cooking and traveling.
+I grew up in San Diego CA got a BA in computer science from the University of Colorado at Boulder and will be staying at CU to pursue a masters in mechanical engineering. I am currently a member of the **H**uman **I**nteraction and **RO**botics (HIRO) research group at CU and have focused my studies on robotics, autonomy and intelligent control. My dream job is developing intelligent and interactive mechatronic/robotic systems. Some of my hobbies include snowboarding, pickup sports, cooking and traveling.
+
+{% capture carousel_images %} 
+/img/DadAndYogi.jpg
+/img/Lacrosse.jpg
+/img/SandDunes.jpg
+/img/WithYogi.jpeg
+{% endcapture %} 
+{% include elements/carousel-custom.html %}
 
 <div class="row">
 {% include about/skills.html title="Programming Languages" source=site.data.programming-skills %}

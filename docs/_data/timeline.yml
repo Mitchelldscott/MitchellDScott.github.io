@@ -1,13 +1,3 @@
-- title: QA Intern, HiTem Engineering
-  from: 2017
-  to: 2017
-  description: Ran tests on the quality and responsivity of smart doorbells. I also began learning to use Python and Linux.
-
-- title: Student, University of Colorado at Boulder
-  from: 2017
-  to: present
-  description: BA in Computer Science
-
 - title: Vision13 Intern, NextCapitalTech
   from: 2019
   to: 2019
@@ -18,7 +8,17 @@
   to: present
   description: Working on publishing a paper on non-verbal intention signaling for robots in environments shared with humans.
 
+- title: Student, University of Colorado at Boulder
+  from: 2017
+  to: 2021
+  description: BA in Computer Science
+
 - title: CV Intern, Scythe Robotics
   from: 2021
   to: present
   description: Currently in charge of collecting a weekly calibration bag from a stereo camera system and I am working on automating this process.
+
+- title: Student, Universtiy of Colorado at Boulder
+  from: 2021
+  to: present
+  description: MS in Mechanical Engineering

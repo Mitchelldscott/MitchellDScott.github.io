@@ -22,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Mitchell D Scott
-  image             : img/Profile-Pic.JPG
+  image             : img/2021-Profile.jpeg
 # behance           : your_username
 # dribbble          : your_username
   email             : misc4432@colorado.edu
@@ -62,7 +62,7 @@ disqus:
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true                                        # Set true to enable analytics
   google:
     tracking_id: your-google-tracking-id
 
@@ -78,7 +78,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: true                                   # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:

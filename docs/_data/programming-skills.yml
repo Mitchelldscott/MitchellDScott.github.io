@@ -4,8 +4,8 @@
 
 - name: C++/C
   percentage: 70
-  color:
+  color: info
 
 - name: bash
   percentage: 70
-  color: 
+  color: info

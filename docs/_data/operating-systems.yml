@@ -3,7 +3,7 @@
   color: success
 
 - name: MacOS
-  percentage: 85
+  percentage: 80
   color: info
 
 - name: Raspbian
@@ -12,5 +12,5 @@
 
 - name: Jetpack
   percentage: 50
-  color: dark
+  color: red
 

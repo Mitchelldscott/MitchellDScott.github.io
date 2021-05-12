@@ -7,13 +7,13 @@
   color: info
 
 - name: Gazebo
-  percentage: 65
-  color:
+  percentage: 75
+  color: info
 
 - name: Webots
   percentage: 60
-  color:
+  color: info
 
 - name: FreeCad
   percentage: 50
-  color: dark
+  color: red
