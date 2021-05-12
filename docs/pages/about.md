@@ -13,7 +13,7 @@ I grew up in San Diego CA got a BA in computer science from the University of Co
 /img/DadAndYogi.jpg
 /img/WithYogi.jpeg
 /img/Lacrosse.jpg
-/img/SandDunes.JPG
+/img/SandDunes.jpg
 {% endcapture %} 
 {% include elements/carousel-custom.html %}
 
