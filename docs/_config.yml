@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Mitchell Dyson Scott's Portfolio
 description         : >-
-                      Just a kid from LJ :palm_tree:.
+                      :palm_tree: :arrow_right: :mountain_snow: 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mitchelldscott/mitchelldscott.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
